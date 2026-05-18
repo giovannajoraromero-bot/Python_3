@@ -1,0 +1,5 @@
+a=(input("Ingrese una palabra o frase: "))
+Mayuscula=a.upper()
+minuscula=a.lower()
+print(Mayuscula)
+print(minuscula)
